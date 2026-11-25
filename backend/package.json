@@ -1,0 +1,11 @@
+{
+  "name": "trademind-backend",
+  "version": "1.0.0",
+  "description": "Secure backend service for TradeMind AI - Proxies secret API keys for OpenAI and Forex providers",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {},
+  "private": true
+}
